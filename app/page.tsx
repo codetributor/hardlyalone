@@ -1,9 +1,11 @@
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import SectionOne from "@/components/SectionOne";
-import SectionThree from "@/components/SectionThree";
+import Footer from "@/components/Footer";
 import SectionTwo from "@/components/SectionTwo";
 import Image from "next/image";
+import SectionThree from "@/components/SectionThree";
+import SectionFour from "@/components/SectionFour";
 
 export default function Home() {
   return (
@@ -15,6 +17,8 @@ export default function Home() {
      <SectionOne />
      <SectionTwo />
      <SectionThree />
+     <SectionFour />
+     <Footer />
     </div>
      
     </main>
