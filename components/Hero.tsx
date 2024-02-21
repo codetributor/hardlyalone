@@ -3,7 +3,7 @@ export default function Hero() {
         <main className="flex justify-center my-5 px-2">
             <div className="flex flex-col items-center space-y-2">
                 <div>
-                    <h3 className="font-bold text-2xl">ALL ONE COMMUNITY</h3>
+                    <h3 className="font-bold text-5xl text-center text-blue-400">ALL ONE COMMUNITY</h3>
                 </div>
                 <div className="text-gray-400 flex items-center space-x-1">
                     <p>loneliness project | Kaneohe, Hawaii</p>
@@ -15,7 +15,7 @@ export default function Hero() {
 
                     </div>
                 </div>
-                <div className="text-center max-w-[500px]">
+                <div className="text-center max-w-[800px]">
                     <p>Over 60% of adults in the United States report feeling lonely. Young adults between the ages of 18 and 22 are the loneliest age group. People who feel socially isolated are more likely to engage in unhealthy behaviors like smoking and drinking alcohol excessively.</p>
                 </div>
             </div>
