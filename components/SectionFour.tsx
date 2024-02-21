@@ -8,7 +8,7 @@ export default function SectionFour() {
             </div>
             <div className="px-3 sm:max-w-[800px] space-y-2 text-gray-8 w-full" >
                 <p>Just bored I guess. I felt alone and wanted to connect with other people, kind of like find my tribe. Also I was interested in other peoples perspectives, like what is loneliness to them and what causes loneliness.</p>
-                <p>Do they too, try to stay busy or distract themselves because they don't want to feel lonely. Am I running away from that feeling. Is loneliness a natural feeling, or is there something wrong with me.</p>
+                <p>Do they too, try to stay busy or distract themselves because they do not want to feel lonely. Am I running away from that feeling. Is loneliness a natural feeling, or is there something wrong with me.</p>
                 <p>Fear and love push me into doing many different things. Is the fear of being lonely directing what I do and how I spend my time. Does it affect my peace of mind. Am I controled by it.</p>
                 <p>On a side note I thought people would feel less alone, if they heard stories from other people who felt lonely, and to realize they are not the only one, and that many people from all walks of life are somtimes lonely.</p>
             </div>
