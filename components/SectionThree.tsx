@@ -4,7 +4,7 @@ export default function SectionThree() {
     return(
         <div className="bg-slate-300 pt-4 pb-10 flex text-center items-center flex-col">
             <div className="py-2">
-                <h3 className="text-2xl py-10">The Story</h3>
+                <h3 className="text-2xl py-3 sm:py-10">The Story</h3>
             </div>
             <div className="sm:flex flex-row justify-center max-w-6xl">
             <div className="sm:max-w-[800px] space-y-2 sm:space-y-0 px-3 sm:px-10 text-gray-8 w-full">
