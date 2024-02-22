@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function SectionFour() {
     return(
-        <div className="flex flex-col text-center items-center pt-4 pb-10">
+        <div className="flex flex-col text-center items-center pb-10">
             <div className="py-4">
                 <h3 className="text-2xl py-10">Why This?</h3>
             </div>
