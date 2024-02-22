@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function SectionThree() {
     return(
-        <div className="bg-slate-300 py-4 flex text-center items-center flex-col">
+        <div className="bg-slate-300 pt-4 pb-10 flex text-center items-center flex-col">
             <div className="py-2">
                 <h3 className="text-2xl py-10">The Story</h3>
             </div>
