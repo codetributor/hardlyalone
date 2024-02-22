@@ -1,6 +1,7 @@
 export default function Header() {
     return(
-        <header className="flex justify-between items-center">
+        <div className="flex justify-center w-full">
+             <header className="flex justify-between w-full items-center max-w-6xl">
             <div className="px-4 py-2 flex space-x-2 items-center">
                 {/* <div>
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="w-6 h-6">
@@ -20,5 +21,7 @@ export default function Header() {
                 </div></a>
             </div>
         </header>
+        </div>
+       
     )
 }

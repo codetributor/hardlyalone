@@ -1,6 +1,7 @@
 export default function SectionThree() {
     return(
-        <div className="py-4 flex bg-slate-300 items-center justify-between px-4 my-10">
+        <div className="flex justify-center w-full bg-slate-300">
+                 <div className="py-4 flex w-full max-w-6xl bg-slate-300 items-center justify-between px-4 my-10">
             {/* <div className="sm:max-w-[400px] text-gray-8 w-full lg:max-w-[600px] px-2 text-center py-4">
                 <p>do not walk through the world looking for evidence that you do not belong, because you will always find it.</p>
                 <p>do not walk through the world looking for evidence that you are not enough, because you will always find it.</p>
@@ -18,5 +19,7 @@ export default function SectionThree() {
                 </div></a>
             </div>
         </div>
+        </div>
+       
     )
 }
