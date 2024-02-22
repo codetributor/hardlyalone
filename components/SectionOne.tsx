@@ -12,7 +12,7 @@ export default function SectionOne() {
     return(
         <div className="bg-slate-300 flex space-y-2 sm:space-y-0 sm:space-x-3 flex-col sm:flex-row justify-center px-2 py-5">
             <div className="sm:max-w-[400px] lg:max-w-[600px]">
-                <Image alt="group of people" src="/sectionOneImage.jpg" height={400} width={700} />
+                <Image alt="group of people" src="/hero.jpg" height={400} width={700} />
             </div>
             <div>
             <div className="bg-white px-1 py-2 sm:max-w-[300px]">
