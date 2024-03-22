@@ -20,7 +20,7 @@ export default function SectionOne() {
                     <Image className="max-h-[75px] object-center object-cover" src="/people.jpg" height={250} width={400} alt="group of people" />
                 </div>
                 <div className="py-2 flex flex-col items-center space-y-2 text-center">
-                    <p>We are doing a "Know Your True Story" campaign which is a completely free prompt journal. Click below and simply message, Hola! and I will follow up</p>
+                    <p>We are doing a "Know Your True Story" campaign which is a completely free prompt journal. Click below and simply message, Hola! and I will follow up and send you a copy</p>
                     
                     <div className="flex items-center">
                     {/* <input className="outline-none border-solid border px-2 py-[7px] rounded-l-full border-gray-600" placeholder="email" /> */}
